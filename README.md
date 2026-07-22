@@ -1,5 +1,5 @@
 # GenAI---Medical-Chatbot-Rag-Vector-DB-Pinecone-Neo4j-Agent-Memory-GraphDB
-This project is GenAI project, which is RAG on PDF data. Also this project maintaines chat memory using Neo4j-Agent-Memory(neo4j_agent_memory) lib using neo4j graph db.
+This project is a GenAI project that uses RAG on PDF data. Also, this project maintains chat memory using Neo4j-Agent-Memory(neo4j_agent_memory) lib using Neo4j graph DB.
 
 # How to run?
 ### STEPS:
@@ -61,4 +61,5 @@ open up localhost:8080
 - LangChain
 - Flask
 - GPT
-- Pinecone   
+- Pinecone
+- Neo4j-Agent-Memory(GraphDB)
