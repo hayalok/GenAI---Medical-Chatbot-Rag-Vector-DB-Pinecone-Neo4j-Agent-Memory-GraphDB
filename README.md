@@ -7,7 +7,7 @@ This project is GenAI project, which is RAG on PDF data. Also this project maint
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: [https://github.com/](https://github.com/hayalok/GenAI---Medical-Chatbot-Rag-Vector-DB-Pinecone-Neo4j-Agent-Memory-neo4j_agent_memory-.git)
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
