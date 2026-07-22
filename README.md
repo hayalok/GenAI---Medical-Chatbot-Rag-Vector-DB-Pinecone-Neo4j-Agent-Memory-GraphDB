@@ -1,4 +1,4 @@
-# End-to-end-Medical-Chatbot-Generative-AI
+# GenAI---Medical-Chatbot-Rag-Vector-DB-Pinecone-Neo4j-Agent-Memory-GraphDB
 This project is GenAI project, which is RAG on PDF data. Also this project maintaines chat memory using Neo4j-Agent-Memory(neo4j_agent_memory) lib using neo4j graph db.
 
 # How to run?
